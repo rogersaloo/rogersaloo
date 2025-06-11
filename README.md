@@ -5,4 +5,4 @@
 
 🙋‍♂️ About me
 
-M.Sc. in Computer Engineering with specialization in intelligent systems, where I worked worked on multimodal models ensembling GANs, CNNs and textual metadata. Currently, I'm actively developing and intergrating Generative AI, CV to business use cases. I also have hands on experience in infrustructure of ML models deploying systems at scale with kubernetes on-cloud and on-prem.  
+MEng. in Computer Engineering with specialization in intelligent systems, where I worked worked on multimodal models ensembling GANs, CNNs and textual metadata. Currently, I'm actively developing and intergrating Generative AI, CV to business use cases. I also have hands on experience in infrustructure of ML models deploying systems at scale with kubernetes on-cloud and on-prem.  
