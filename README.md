@@ -9,4 +9,4 @@
 
 With a Master's degree in Computer Engineering and a background in multimodal deep learning, I work across the AI stack: model development, LLM inference and optimization, GPU-accelerated infrastructure, and scalable deployment.
 
-My focus is on **turning emerging AI technologies into reliable, high-performance systems that solve real-world problems**, combining applied research with hands-on engineering using PyTorch, NVIDIA DGX, Kubernetes, and vLLM.
+My focus is on **turning emerging AI technologies into reliable, high-performance systems that solve real-world problems**, combining applied research with hands-on engineering using NVIDIA DGX, Kubernetes, and multiple inference engines.
