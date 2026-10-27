@@ -1,13 +1,10 @@
-## Hi there 👋, I am Rogers Aloo
-
-
-<a href="https://www.linkedin.com/in/rogers-aloo-58a363127/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-🙋‍♂️ About me
 
 **AI Engineer | AI Infrastructure | LLM Systems | Applied AI Research**
+<a href="https://www.linkedin.com/in/rogers-aloo-58a363127/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-**I build AI systems from research to production — from models to the infrastructure that powers them.**
+## Hi there 👋, I am Rogers Aloo
+
+**I build AI systems from research to production; from models to the infrastructure that powers them.**
 
 With a Master's degree in Computer Engineering and a background in multimodal deep learning, I work across the AI stack: model development, LLM inference and optimization, GPU-accelerated infrastructure, and scalable deployment.
 
