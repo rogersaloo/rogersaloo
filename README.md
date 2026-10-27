@@ -1,5 +1,6 @@
 
 **AI Engineer | AI Infrastructure | LLM Systems | Applied AI Research**
+
 <a href="https://www.linkedin.com/in/rogers-aloo-58a363127/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Hi there 👋, I am Rogers Aloo
